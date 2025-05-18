@@ -1,0 +1,38 @@
+# Node.js
+node_modules
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Logs
+logs
+.log
+pids
+.pid
+.seed
+
+# Runtime data
+tmp
+temp
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# VSCode settings
+.vscode
+
+# Build output (caso tenha)
+dist
+build
+
+# MacOS
+.DS_Store
+
+# Others
+coverage
