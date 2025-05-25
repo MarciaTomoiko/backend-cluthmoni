@@ -4,7 +4,7 @@ import { google } from 'googleapis'; //import google comunicação
 import cors from 'cors';  //política
 import dotenv from 'dotenv';  //.env
 import pkg from 'pg'; //banco de dados
-import fetch from 'node-fetch'; // adicione isso no topo do arquivo
+import fetch from 'node-fetch';
 import jwt from 'jsonwebtoken';
 
 
